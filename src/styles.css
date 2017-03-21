@@ -1,10 +1,16 @@
 /* Estilos globales de la aplicación */
+body{
+  padding-bottom: 50px
+}
+
 .main-container{
   margin-top: 20px
 }
 
-body{
-  padding-bottom: 50px
+
+.img-logo{
+  width: 120px;
+
 }
 
 
